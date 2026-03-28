@@ -1,3 +1,9 @@
+> 批注：该分支用于服务[Hgnim/TimedPower](https://github.com/Hgnim/TimedPower)项目，包含部分独立修改。
+> 独立修改提交：
+> 1268294131756f1ed4a6b3fd4a6241cd6cd68825
+
+***
+
 ![Logo](https://raw.githubusercontent.com/Taiizor/ReaLTaiizor/develop/.images/Logo.png)
 
 ![Dot-Net-Framework-Version](https://img.shields.io/badge/.NET%20Framework-%3E%3D4.8-blue)
